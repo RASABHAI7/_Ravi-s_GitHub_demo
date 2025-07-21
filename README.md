@@ -1,5 +1,5 @@
 ```bash
-# _Ravi-s_GitHub_demo
+# _Rasa-s_GitHub_demo
 Student-Project-Repo/
 ├── Code/
 │   └── (students upload their code)
